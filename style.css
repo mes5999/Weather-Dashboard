@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+body {
+    background-color: white;
+}
+
+input[type="text"]{
+    height: 50px;
+    width: 600px;
+    background: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    border: none;
+    border-radius: 2px;
+    padding: 10px; 10px;
+}
+
+input[type="search"]{
+    height: 50px;
+    width: 100px;
+    background: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    border: none;
+    border-radius: 2px;
+}
